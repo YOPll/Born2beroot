@@ -7,4 +7,4 @@ You will create your first machine in VirtualBox (or UTM if you can’t use Virt
 
 See the subjects for further information
 
-[SUBJECTS](subject/en.subject.pdf)
+[SUBJECT](subject/en.subject.pdf)
