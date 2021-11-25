@@ -99,4 +99,5 @@ capabilities with per-program profiles. Profiles can allow capabilities like net
 # Resources:
 
 LinuxFoundationX LFS101x
+
 Introduction to Linux
