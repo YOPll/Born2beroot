@@ -52,9 +52,9 @@ Debian Family Systems (including Ubuntu and Linux Mint).
 ![Linux distributions](https://courses.edx.org/assets/courseware/v1/1d8c97abd237dcd44a5fe5464f6521ac/asset-v1:LinuxFoundationX+LFS101x+1T2020+type@asset+block/chapter01_The_Linux_Kernel_Distribution_Families_and_Individual_Distributions.png)
 
 ** The Debian Family
- Debian is a pure open source community project (not owned by any corporation) and has a strong focus on stability.!
+ Debian is a pure open source community project (not owned by any corporation) and has a strong focus on stability.
  
- [debian family](https://courses.edx.org/assets/courseware/v1/223d3c300d6cdd86ae66e8c2b9faa265/asset-v1:LinuxFoundationX+LFS101x+1T2020+type@asset+block/chapter01_screen20.jpg)
+ ![debian family](https://courses.edx.org/assets/courseware/v1/223d3c300d6cdd86ae66e8c2b9faa265/asset-v1:LinuxFoundationX+LFS101x+1T2020+type@asset+block/chapter01_screen20.jpg)
 
 Some key facts about the Debian family are listed below:
 
